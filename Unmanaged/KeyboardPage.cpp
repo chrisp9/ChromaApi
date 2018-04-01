@@ -7,9 +7,6 @@
 #include "afxdialogex.h"
 #include "TutorialDlg.h"
 #include "HealthAmmoManaDlg.h"
-#include "AlertDlg.h"
-#include "CooldownTimerDlg.h"
-#include "AmbientEffectDlg.h"
 
 
 // CKeyboardPage dialog

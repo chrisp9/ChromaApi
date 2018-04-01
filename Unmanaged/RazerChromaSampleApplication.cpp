@@ -6,9 +6,6 @@
 #include "RazerChromaSampleApplication.h"
 #include "SampleApplicationPropertySheet.h"
 #include "KeyboardPage.h"
-#include "MicePage.h"
-#include "HeadsetPage.h"
-#include "KeypadPage.h"
 
 #ifdef _DEBUG
 #define new DEBUG_NEW
